@@ -1,84 +1,160 @@
 # Hi, I'm Dilshad Shaik 👋
 
-**Software Engineer | AI/ML | Backend | Full Stack**
+### AI/ML Engineer | Generative AI & AI Agents | Python & AWS
 
-> 3 years of production engineering at Cognizant · MS CS Auburn University · AWS Certified · Seeking SWE / AI Engineer Roles 2026
+Software engineer with nearly 3 years of experience building production Java/Spring Boot microservices and REST APIs for a high-volume banking transaction platform. Currently completing an **MS in Computer Science at Auburn University at Montgomery**, with a focus on **machine learning, generative AI, and AI agents**.
 
----
-
-## 🚀 About Me
-
-- 🏢 **IT Systems Engineer** at Auburn University at Montgomery
-- 🎓 **MS Computer Science** — Auburn University at Montgomery (GPA: 3.6, Dec 2026)
-- 💼 **3 years at Cognizant** — Java distributed systems for US banking clients (KeyBank), 99.9% uptime, 8 client awards, Best Employee Award
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🌐 Open to **Remote · Hybrid · Relocation**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frameworks & Tools**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-**Cloud & AI**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-### 🤖 [Bob MCP Forge](https://github.com/dilshadshaik3031/bob-mcp-forge)
-> **Agentic AI system** — Anthropic API · LangChain · RAG Pipelines · FAISS Vector DB · IBM Cloud
-> 
-> Recognized at **IBM Bob Hackathon 2026** — built end-to-end agentic AI with compliance-checked outputs
-
-### 💊 [PCOD FemCare AI Doctor](https://github.com/dilshadshaik3031/pcod-fem-care)
-> **ML Healthcare Platform** — Scikit-learn · FastAPI · React · Python
-> 
-> ML classifiers (Logistic Regression, SVM, Random Forest) for PCOD prediction
-
-### ☁️ [Cloud Expense Tracker](https://github.com/dilshadshaik3031/cloud-expense-tracker)
-> **Full-Stack Cloud App** — IBM Cloud · AWS Lambda · MongoDB · Docker · CI/CD · AES Encryption
-> 
-> Real-time expense tracking with serverless backend and analytics dashboards
-
-### 🌐 [My Portfolio](https://dilshadshaik3031.github.io/MyPortfolio)
-> Personal portfolio website showcasing projects and experience
-
----
-
-## 📊 GitHub Stats
-
-![Dilshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshadshaik3031&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshadshaik3031&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📫 Let's Connect
+I build practical AI systems, backend services, and cloud-deployed applications with an emphasis on reliability, experimentation, and end-to-end engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshad-shaik-43bb4419a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://dilshadshaik3031.github.io/MyPortfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dilshadshaik3031@gmail.com)
 
-📧 dilshadshaik3031@gmail.com | 📍 Montgomery, AL | Open to Relocation
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **M.S. in Computer Science** — Auburn University at Montgomery, expected December 2026
+- 💼 **Software Engineer** — Cognizant Technology Solutions, Sept 2021 – Jul 2024
+- 🏦 Built production systems for a **large banking client** supporting high-volume financial transaction processing
+- ⚙️ Experienced in **Java, Spring Boot, REST APIs, microservices, distributed systems, testing, and CI/CD**
+- 🤖 Building with **LLMs, generative AI, prompt engineering, RAG, and multi-agent systems**
+- 🧠 Machine learning experience with **PyTorch, scikit-learn, Pandas, and NumPy**
+- ☁️ Cloud experience with **AWS EC2, S3, Lambda, and Azure Container Apps**
+- 🏆 **Best Employee Award** + **8 client appreciation awards** at Cognizant
+- 🔬 **Vice President, Research Club — Auburn University at Montgomery**
+- 📊 Production engineering record including **99.9% uptime** on a high-volume transaction platform
 
 ---
 
-*Available January 2027 (full-time) | Immediately (internship/CPT)*
+## 🧰 Technical Skills
 
+### Languages
+`Python` `Java` `SQL` `Bash`
+
+### Machine Learning
+`PyTorch` `scikit-learn` `Pandas` `NumPy`  
+`Model Development` `Model Evaluation` `Feature Engineering` `Statistical Modeling` `Experimental Design`
+
+### Generative AI & Agents
+`Large Language Models` `AI Agents` `Multi-Agent Systems`  
+`Prompt Engineering` `Retrieval-Augmented Generation` `LangChain` `Vector Databases`
+
+### Backend & APIs
+`Spring Boot` `Spring MVC` `FastAPI` `Flask` `Node.js`  
+`REST API Design` `Microservices` `Distributed Systems`
+
+### Cloud & DevOps
+`AWS EC2` `AWS S3` `AWS Lambda` `Azure Container Apps`  
+`Docker` `Kubernetes` `CI/CD` `MLOps` `Git` `GitHub`
+
+### Engineering
+`Object-Oriented Design` `Design Patterns` `Unit Testing` `Test-Driven Development`  
+`Code Review` `Root-Cause Analysis` `Technical Documentation` `Agile/Scrum` `Full SDLC`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 CareerIQ — Multi-Agent Generative AI System
+
+**Microsoft Agents League Hackathon 2026**
+
+[Repository](https://github.com/dilshadshaik3031/CareerIQ)
+
+`Python` `Flask` `React` `Azure Container Apps` `Multi-Agent AI`
+
+- Designed a multi-agent reasoning architecture that decomposes career-guidance requests into subtasks handled by **4 AI agents running in parallel**.
+- Built a **5-step visible reasoning trace** to make agent outputs easier to inspect and debug.
+- Developed agent-specific prompt engineering strategies to improve relevance and consistency.
+- Built a Flask backend with a React frontend and streamed agent output in real time using **Server-Sent Events (SSE)**.
+- Containerized and deployed the application to **Azure Container Apps**.
+- Presented the project at **Microsoft AI Skills Fest 2026**.
+
+---
+
+### 🧬 PCOD Prediction — Faculty-Advised ML Research
+
+**Auburn University at Montgomery** · Advisor: **Dr. Olcay Kursun**
+
+[Repository](https://github.com/dilshadshaik3031/pcod-fem-care)
+
+`Python` `scikit-learn` `Pandas` `NumPy` `Node.js` `React`
+
+- Built a data preprocessing and feature-engineering pipeline using Pandas and NumPy.
+- Trained and compared **Logistic Regression, SVM, and Random Forest** models for PCOD prediction.
+- Current experiments have reached approximately **82% accuracy**.
+- Designed model evaluation experiments to compare approaches and study feature engineering and generalization.
+- Deployed a prediction interface using a **Node.js REST API** and React frontend.
+- Presented interim findings as a research poster at an academic showcase.
+
+---
+
+## 💼 Professional Experience
+
+### Cognizant Technology Solutions — Software Engineer
+**Hyderabad, India · Sept 2021 – Jul 2024**
+
+- Developed production-grade **Java Spring Boot/Spring MVC microservices and REST APIs** for a high-volume banking transaction platform.
+- Contributed to systems operating at **99.9% uptime** across distributed services.
+- Applied object-oriented design and design patterns to build modular and maintainable services.
+- Designed REST API contracts for dependable service-to-service integration.
+- Delivered features across the full SDLC within Agile/Scrum teams.
+- Performed root-cause analysis and debugging of complex production incidents.
+- Contributed to code-review standards across a **12+ engineer team**.
+- Wrote unit tests and applied test-driven development practices.
+- Supported CI/CD and automated testing for repeatable production deployments.
+- Piloted adoption of **generative AI and LLM-powered developer tools** within the engineering team.
+- Mentored junior engineers in microservices, distributed systems, and coding practices.
+- Received **8 client appreciation awards** and a **Best Employee Award**.
+
+---
+
+## 🏆 Awards & Leadership
+
+- 🥇 **Best Employee Award** — Cognizant Technology Solutions
+- ⭐ **8 Client Appreciation Awards** — Cognizant banking client engagement
+- 🔬 **Vice President, Research Club** — Auburn University at Montgomery
+- 🎤 **Presenter — Microsoft AI Skills Fest 2026** for CareerIQ
+- 🎤 **Presenter — AUM Academic Research Showcase** for PCOD research
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services  
+  Valid May 2025 – May 2028
+- 🤖 **Machine Learning Operations for Generative AI** — Google
+- 🧠 **Introduction to Large Language Models** — Google
+- 🧩 **Agents League: Reasoning Agents** — Global AI Community
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science**  
+Auburn University at Montgomery · Montgomery, Alabama  
+**Aug 2024 – Dec 2026** · GPA: **3.6/4.0**
+
+---
+
+## 📈 What I'm Working On
+
+- Generative AI and LLM-based applications
+- Multi-agent systems and agent orchestration
+- Machine learning experimentation and evaluation
+- AI-assisted software engineering
+- Cloud deployment and production-ready AI systems
+- Research at the intersection of machine learning and generative AI
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:** [linkedin.com/in/dilshad-shaik-43bb4419a](https://www.linkedin.com/in/dilshad-shaik-43bb4419a)  
+**Portfolio:** [dilshadshaik3031.github.io/MyPortfolio](https://dilshadshaik3031.github.io/MyPortfolio)  
+**Email:** [dilshadshaik3031@gmail.com](mailto:dilshadshaik3031@gmail.com)
+
+---
+
+> Building reliable software, practical AI systems, and research-driven solutions.
